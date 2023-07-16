@@ -1,2 +1,4 @@
 # OnlineRetail_DataSet_PowerBI
-This dataset is all about a online retaillaing of some items across the globe, what was the revenue, customer ID and reoccuring customers etc
+I tried with the dataset to get insights and worked on it.
+This dataset is all about the online retailing of some items across the globe, what was revenue, customer ID and recurring customers
+Share feedback and improvement in the visualisation part.
